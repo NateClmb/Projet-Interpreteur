@@ -1,0 +1,7 @@
+x = 5;
+y = 6;
+lire(z);
+if x < y then
+x=x+1;
+else
+y=y*2+z;

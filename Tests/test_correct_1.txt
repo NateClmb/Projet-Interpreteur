@@ -1,0 +1,6 @@
+y=1;z=10;x=0;
+if x<1 then
+x=z-(y*5);
+else 
+x=z;
+fi;
